@@ -1,12 +1,14 @@
 -[x] import pygame.
 -[x] import time. 
-Change background color of game to green, possibly football field. 
-Change mouse and traps to football related items 
-Change home screen 
-change button on starting screen (start button) 
-change button on starting screen (quit button)
+-[x] Change background color of game to green, possibly football field. 
+-[x] Change mouse and traps to football related items (couldn't change traps)
+-[x] Change home screen 
+-[x] change button on starting screen (start button) (changed to run!!)
+-[x] change button on starting screen (quit button) (no change needed) 
 -[x] change color to start button 
 -[x] change color to quit button 
-Add new button functionnallity (Play again)  
-Add new button functionnallity (Quit) 
-Add icon in top of window 
+-[x] Add new button functionnallity after crash (Play again)  
+-[x] Add new button functionnallity after crash (Quit) 
+-[x] Add icon in top of window 
+-[x] Add pause function 
+Add highscore counter
